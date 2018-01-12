@@ -11,8 +11,5 @@ class helper(str):
             self.strval += str(input)
             return self
 
-    def __rshift__(self, var):
-        var = input("")
-
 cout = helper()
 endl = helper()
