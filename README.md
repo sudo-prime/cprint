@@ -43,7 +43,7 @@ However,
 cout << "test" << endl;
 ```
 will print the string "test".
-`endl` doesn't neet to be inline though.
+`endl` doesn't need to be inline, though:
 ```python
 cout << "test";
 cout << endl;
