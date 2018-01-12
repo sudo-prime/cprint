@@ -8,7 +8,7 @@
 
 # cprint
 
-A python module that makes c++ print syntax just work, for some reason.
+A python module that makes c++ print syntax just *work*, for some reason.
 
 ## Usage
 
@@ -55,3 +55,7 @@ will also print the string "test".
 ## Installation
 
 I still haven't figured out how to package and distribute python modules as of yet, so for now, just download or copy and paste the code into a file called cprint.py and import it as shown above.
+
+## Contact
+
+If you think there's a way to expand upon my code, let me know. I'm willing to make this thing worse than it already is.
